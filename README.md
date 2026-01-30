@@ -2,12 +2,14 @@
 
 AI Camp Project · WieldMore
 
+
 📌 Project Overview
 
 This project focuses on preparing high-quality, site-level data to support flood risk assessment.
 Instead of working only at a regional level, the aim is to enable asset-level analysis by combining multiple environmental and risk-related datasets.
 
 The project was completed as part of an AI Camp in collaboration with WieldMore, a risk management investment firm.
+
 
 👤 My Role
 
@@ -27,6 +29,7 @@ My contributions included:
 
 Note: I did not develop or train the machine learning models used later in the project.
 
+
 🗂️ Data Types Used
 
 The processed dataset integrates multiple types of data:
@@ -40,6 +43,7 @@ The processed dataset integrates multiple types of data:
 💧 Water risk indicators (WRI Aqueduct)
 
 All datasets are spatially aligned to individual asset locations.
+
 
 🔄 Data Processing Workflow
 
@@ -55,11 +59,13 @@ Standardise variables for downstream analysis
 
 Export a clean, site-referenced dataset
 
+
 📤 Outputs
 
 ✔ Clean, site-level dataset
 
 ✔ Environmental and water risk features ready for analysis or modelling
+
 
 ⚠️ Limitations
 
@@ -68,6 +74,7 @@ Some datasets are limited to England only
 Data quality depends on the resolution and coverage of public sources
 
 This repository focuses on data preparation, not risk prediction
+
 
 📝 Notes
 
